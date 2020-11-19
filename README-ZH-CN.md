@@ -9,7 +9,7 @@ Flutter日历时间选择插件
 ## 安装
 pubspec.yaml文件中的dependencies下添加
 ```
-full_calendar: ^0.01
+full_calendar: ^0.0.1
 ```
 
 终端执行获取依赖命令

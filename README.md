@@ -9,7 +9,7 @@ A calendar plugin for Flutter
 ## Installation
 Added on pubspec.yaml file dependencies
 ```
-full_calendar: ^0.01
+full_calendar: ^0.0.1
 ```
 
 Run in your terminal
